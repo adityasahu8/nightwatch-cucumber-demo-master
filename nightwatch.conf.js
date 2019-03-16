@@ -27,7 +27,7 @@ module.exports = {
   },
   test_settings: {
     default: {
-      test_workers: true,
+      test_workers: false,
       launch_url: 'https://cup-test.avlr.sh/',
       selenium_port: 9000,
       selenium_host: '127.0.0.1',
